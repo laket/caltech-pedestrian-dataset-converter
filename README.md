@@ -1,6 +1,9 @@
 Caltech Pedestrian Dataset Converter
 ============================
 
+# Original
+This is forked from https://github.com/mitmul/caltech-pedestrian-dataset-converter. I couldn't read *.seq files with the original in my environment, so I merged another source(https://gist.github.com/psycharo/7e6422a491d93e1e3219/) to the original.
+
 # Requirements
 
 - OpenCV 3.0+ (with Python binding)
